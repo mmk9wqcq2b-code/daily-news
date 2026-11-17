@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-17T23:10:00+01:00",
-  "updateFrequency": "periodisch, ca. alle 4–6 Stunden; tägliches Briefing um 20:00 Uhr MEZ/MESZ",
+  "lastUpdated": "2026-11-18T00:05:00+01:00",
+  "updateFrequency": "täglich um 20:00 Uhr MEZ/MESZ; Probleme-Reiter mit Top-5 von X",
   "items": [
     {
       "id": "2026-11-17-kerch-bridge",
@@ -31,6 +31,20 @@
       ],
       "hasX": true,
       "status": null
+    },
+    {
+      "id": "2026-11-17-probleme-sample",
+      "category": "Probleme",
+      "title": "Top-5 diskutierte Probleme auf X (Beispiel / wird täglich ersetzt)",
+      "summary": "Dieser Reiter zeigt ab dem nächsten Lauf die 5 am meisten diskutierten menschlichen und gesellschaftlichen Probleme des Tages, basierend auf der Intensität der Diskussionen auf X. Beispiele: Wohnkosten, mentale Gesundheit, Inflation, KI-Angst am Arbeitsmarkt, Einsamkeit.",
+      "whyImportant": "Gibt einen direkten Einblick, was Menschen gerade wirklich beschäftigt – jenseits der klassischen Nachrichten.",
+      "eventDate": "2026-11-17",
+      "publishedAt": "2026-11-18T00:05:00+01:00",
+      "sources": [
+        {"name": "X (tägliche Analyse)", "url": "https://x.com"}
+      ],
+      "hasX": true,
+      "status": "Beispiel"
     }
   ]
 }
