@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="de-CH">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Josi Briefing</title>
+  <meta name="description" content="Persönliches Nachrichten-Briefing: Allgemein, KI, Wirtschaft, Schweiz.">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0f172a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Josi Briefing">
+  <link rel="apple-touch-icon" href="icon-192.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <h1>Josi Briefing</h1>
+      <div class="header-actions">
+        <button id="theme-toggle" aria-label="Hell/Dunkel umschalten">🌙</button>
+        <span id="last-updated" class="status"></span>
+      </div>
+    </div>
+    <nav class="filters" id="filters">
+      <button data-cat="Alle" class="active">Alle</button>
+      <button data-cat="Allgemein">Allgemein</button>
+      <button data-cat="KI & Technologie">KI & Technologie</button>
+      <button data-cat="Wirtschaft">Wirtschaft</button>
+      <button data-cat="Schweiz">Schweiz</button>
+      <button data-cat="X">X</button>
+    </nav>
+    <div class="search-bar">
+      <input type="search" id="search" placeholder="Archiv durchsuchen…" autocomplete="off">
+    </div>
+  </header>
+
+  <main id="feed">
+    <!-- Items injected here -->
+  </main>
+
+  <div id="new-items-banner" class="banner hidden">Neue Meldungen verfügbar – tippen zum Aktualisieren</div>
+
+  <footer>
+    <p>Josi Briefing · Persönlich · Automatisch aktualisiert</p>
+    <p id="update-note" class="small"></p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
