@@ -22,6 +22,992 @@
       ],
       "hasX": true,
       "status": null
+    },
+    {
+      "id": "2026-11-21-riemann-claude",
+      "category": "KI & Technologie",
+      "title": "Anthropic-Mathematiker beansprucht KI-gestützten Beweis der Riemann-Hypothese",
+      "summary": "Levent Alpöge bei Anthropic hat am 20. November einen formalisierten Beweis der Riemann-Hypothese in Lean veröffentlicht, der mit Claude erarbeitet wurde. Unabhängige Mathematiker beginnen die Prüfung; der Beweis umfasst über 250'000 Seiten.",
+      "whyImportant": "Falls bestätigt, wäre es ein historischer Durchbruch in der Mathematik und zeigt das Potenzial von KI für komplexe wissenschaftliche Probleme. Unsicherheit bleibt bis zur Verifizierung.",
+      "eventDate": "2026-11-20",
+      "publishedAt": "2026-11-20T16:00:00+01:00",
+      "sources": [
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2600134-anthropic-mathematician-claims-ai-assisted-proof-of-the-riemann-hypothesis/"
+        },
+        {
+          "name": "Scientific American",
+          "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/"
+        }
+      ],
+      "hasX": true,
+      "status": "Unsicher: Verifizierung läuft, noch keine unabhängige Bestätigung"
+    },
+    {
+      "id": "2026-11-21-gemini-4",
+      "category": "KI & Technologie",
+      "title": "Google lanciert Gemini-4-Modelle Carbon und Hydrogen",
+      "summary": "Google hat Gemini 4 Carbon (fokussiert auf Cybersicherheit) und Hydrogen (für schnelles Coding und agentische Arbeit) vorgestellt. Carbon führt den Artificial Analysis Index an. Zugang zunächst eingeschränkt.",
+      "whyImportant": "Neue Frontier-Modelle erweitern praktische Anwendungen in Sicherheit und Entwicklung. Relevant für Unternehmen und Entwickler in der Schweiz.",
+      "eventDate": "2026-11-20",
+      "publishedAt": "2026-11-21T00:00:00+01:00",
+      "sources": [
+        {
+          "name": "AIBriefs",
+          "url": "https://aibriefs.news/briefing/2026-11-21"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-21-svp-ticket",
+      "category": "Schweiz",
+      "title": "SVP nominiert Aeschi und Graber für Bundesrat",
+      "summary": "Die SVP-Bundeshausfraktion hat Thomas Aeschi (ZG) und Michael Graber (VS) auf das Ticket für die Nachfolge von Guy Parmelin gesetzt. Die Wahl durch die Vereinigte Bundesversammlung findet am 9. Dezember statt.",
+      "whyImportant": "Das Hardliner-Ticket prägt die Bundesratswahl und die politische Ausrichtung der Schweiz im kommenden Jahr. Einfluss auf Migration, EU-Beziehungen und Finanzen.",
+      "eventDate": "2026-11-20",
+      "publishedAt": "2026-11-20T15:00:00+01:00",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/nachfolger-von-guy-parmelin-svp-schickt-michael-graber-und-thomas-aeschi-ins-bundesratsrennen"
+        },
+        {
+          "name": "SVP",
+          "url": "https://www.svp.ch/aktuell/publikationen/medienmitteilungen/bundesratsersatzwahl-svp-fraktion-nominiert-zweier-ticket-mit-thomas-aeschi-und-michael-graber/"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-21-jugendproteste",
+      "category": "Schweiz",
+      "title": "Jugendstreik: Tausende demonstrieren in der Schweiz",
+      "summary": "Am 20. November zogen Tausende Jugendliche in mehreren Städten gegen Aufrüstung, Sparmassnahmen und für mehr Bildung und Klimaschutz auf die Strasse. Die Aktionen verliefen weitgehend friedlich.",
+      "whyImportant": "Die Proteste zeigen gesellschaftliche Spannungen um Prioritäten bei Ausgaben und Zukunftsangst der jungen Generation.",
+      "eventDate": "2026-11-20",
+      "publishedAt": "2026-11-20T16:00:00+01:00",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/schweizweiter-jugendstreik-jugend-demos-tausende-auf-der-strasse-wenige-zwischenfaelle"
+        },
+        {
+          "name": "20 Minuten",
+          "url": "https://www.20min.ch/story/jugendproteste-schweiz-20-november-live-ticker-103670504"
+        }
+      ],
+      "hasX": true,
+      "status": null
+    },
+    {
+      "id": "2026-11-21-smi-druck",
+      "category": "Wirtschaft",
+      "title": "SMI unter Druck durch KI-Sorgen und Zinsängste",
+      "summary": "Der SMI gab am 20. November weiter nach, getrieben von Risikoaversion nach dem Anthropic-IPO und Sorgen um höhere Zinsen im Ausland. Defensive Schwergewichte stützten den Index teilweise.",
+      "whyImportant": "Die Marktentwicklung reflektiert Unsicherheiten im KI-Sektor und globale Geldpolitik. Relevant für Schweizer Anleger und Unternehmen, keine Empfehlung.",
+      "eventDate": "2026-11-20",
+      "publishedAt": "2026-11-20T19:00:00+01:00",
+      "sources": [
+        {
+          "name": "Finanznachrichten",
+          "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70192335-aktien-schweiz-bleiben-im-rueckwaertsgang-015.htm"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-21-snb-status",
+      "category": "Wirtschaft",
+      "title": "SNB hält Leitzins bei 0 Prozent, nächste Entscheidung im Dezember",
+      "summary": "Die Schweizerische Nationalbank hat den Leitzins seit September bei 0 Prozent belassen. Märkte erwarten im Dezember keine Änderung, Diskussionen über mögliche Anhebungen 2027 laufen.",
+      "whyImportant": "Die Tiefzinsphase unterstützt die Konjunktur und den Franken, hat aber Auswirkungen auf Sparer und Hypotheken.",
+      "eventDate": "2026-11-20",
+      "publishedAt": "2026-11-20T10:00:00+01:00",
+      "sources": [
+        {
+          "name": "SNB / FXMacroData",
+          "url": "https://www.snb.ch/"
+        },
+        {
+          "name": "Goldman Sachs via FuW",
+          "url": "https://www.fuw.ch/goldman-sachs-snb-duerfte-leitzins-2027-bei-0-prozent-belassen-817417999233"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-21-probleme-polen-ukraine",
+      "category": "Probleme",
+      "title": "Ukraine-Krieg und polnischer Luftraumvorfall",
+      "summary": "Auf X wird intensiv über die russischen Angriffe, die Verletzung des polnischen Luftraums und die fehlenden Fortschritte bei Friedensgesprächen diskutiert. Viele sehen Eskalationsrisiken.",
+      "whyImportant": "Hohe Diskussionsintensität spiegelt globale Sorge um Sicherheit und humanitäre Lage wider.",
+      "eventDate": "2026-11-21",
+      "publishedAt": "2026-11-21T06:00:00+01:00",
+      "sources": [
+        {
+          "name": "X / öffentliche Beiträge",
+          "url": "https://x.com"
+        }
+      ],
+      "hasX": true,
+      "status": null
+    },
+    {
+      "id": "2026-11-21-probleme-ai-risiko",
+      "category": "Probleme",
+      "title": "KI-Risiken und mathematische Durchbrüche",
+      "summary": "Diskussionen zu KI-gestützten Beweisen, möglichen Arbeitsplatzverlusten und Sicherheitsbedenken bei schnellen Fortschritten dominieren Teile der Debatte.",
+      "whyImportant": "Die Intensität zeigt Unsicherheit über den gesellschaftlichen Umgang mit KI-Durchbrüchen.",
+      "eventDate": "2026-11-21",
+      "publishedAt": "2026-11-21T06:00:00+01:00",
+      "sources": [
+        {
+          "name": "X / öffentliche Beiträge",
+          "url": "https://x.com"
+        }
+      ],
+      "hasX": true,
+      "status": null
+    },
+    {
+      "id": "2026-11-21-probleme-kosten",
+      "category": "Probleme",
+      "title": "Lebenshaltungskosten und wirtschaftliche Unsicherheit",
+      "summary": "Beiträge thematisieren anhaltend hohe Preise, Wohnungsknappheit und die Belastung durch Inflation in verschiedenen Ländern.",
+      "whyImportant": "Bleibt ein zentrales gesellschaftliches Problem mit hoher Diskussionsintensität.",
+      "eventDate": "2026-11-21",
+      "publishedAt": "2026-11-21T06:00:00+01:00",
+      "sources": [
+        {
+          "name": "X / öffentliche Beiträge",
+          "url": "https://x.com"
+        }
+      ],
+      "hasX": true,
+      "status": null
+    },
+    {
+      "id": "2026-11-21-probleme-geopolitik",
+      "category": "Probleme",
+      "title": "Geopolitische Spannungen und Grossmachtpolitik",
+      "summary": "Das Trilateral-Treffen und parallele Konflikte in Ukraine und Nahost prägen Debatten über die Stabilität der Weltordnung.",
+      "whyImportant": "Die Diskussionen unterstreichen Vertrauensverlust und Eskalationsängste.",
+      "eventDate": "2026-11-21",
+      "publishedAt": "2026-11-21T06:00:00+01:00",
+      "sources": [
+        {
+          "name": "X / öffentliche Beiträge",
+          "url": "https://x.com"
+        }
+      ],
+      "hasX": true,
+      "status": null
+    },
+    {
+      "id": "2026-11-21-probleme-jugend-zukunft",
+      "category": "Probleme",
+      "title": "Jugendliche Zukunftssorgen und Proteste",
+      "summary": "In Europa und der Schweiz wird über Jugendproteste, Klimasorgen und Sparpolitik diskutiert. Viele junge Menschen äussern Angst vor der Zukunft.",
+      "whyImportant": "Zeigt Generationenkonflikte und Prioritätenfragen in der Gesellschaft.",
+      "eventDate": "2026-11-21",
+      "publishedAt": "2026-11-21T06:00:00+01:00",
+      "sources": [
+        {
+          "name": "X / öffentliche Beiträge",
+          "url": "https://x.com"
+        }
+      ],
+      "hasX": true,
+      "status": null
+    },
+    {
+      "id": "2026-11-20-greenland-us-deal",
+      "category": "Allgemein",
+      "title": "Dänisches Parlament billigt Sicherheitsabkommen mit USA über Grönland",
+      "summary": "Das dänische Folketing hat einstimmig das Abkommen mit den USA und Grönland ratifiziert. Es erlaubt den USA mehr Militärpräsenz und ein Raketenabwehrsystem, bestätigt aber die dänische Souveränität. Das Abkommen folgt auf Trumps Drohungen, die Insel zu übernehmen.",
+      "whyImportant": "Es entspannt die arktische Spannungen und hat Implikationen für NATO und europäische Sicherheit. Für die Schweiz relevant als neutraler Beobachter der Grossmachtpolitik.",
+      "eventDate": "2026-11-19",
+      "publishedAt": "2026-11-19T13:00:00+01:00",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/19/danish-mps-approve-greenland-security-pact-us"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/denmark-expected-ratify-trump-deal-over-greenland-thursday-2026-11-19/"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-20-kyiv-attacks",
+      "category": "Allgemein",
+      "title": "Russische Angriffe beschädigen Kathedrale und Botschaften in Kiew",
+      "summary": "Russische Drohnen- und Raketenangriffe haben am 19. November eine historische Kathedrale sowie die österreichische und niederländische Botschaft in Kiew beschädigt. Mindestens eine Person wurde getötet. Die Angriffe erfolgten parallel zum Gipfel in Shenzhen.",
+      "whyImportant": "Die Angriffe auf diplomatische Einrichtungen erhöhen die Spannungen und zeigen die anhaltende Eskalation im Ukraine-Krieg trotz Grossmacht-Gesprächen.",
+      "eventDate": "2026-11-19",
+      "publishedAt": "2026-11-19T20:00:00+01:00",
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world"
+        },
+        {
+          "name": "Daily Summary",
+          "url": "https://dailysummaryof.com/world/2026-11-19"
+        }
+      ],
+      "hasX": true,
+      "status": null
+    },
+    {
+      "id": "2026-11-20-anthropic-trading",
+      "category": "KI & Technologie",
+      "title": "Anthropic-Aktie schliesst ersten Handelstag mit +17 % ab",
+      "summary": "Nach dem Rekord-IPO zu 83 Dollar pro Aktie eröffnete Anthropic bei 111,50 Dollar und schloss bei rund 97 Dollar (+17 %). Die Bewertung liegt bei etwa 1,27 Billionen Dollar. CEO Dario Amodei betonte die Sicherheitsausrichtung.",
+      "whyImportant": "Der erfolgreiche Start testet die Marktbereitschaft für KI-Unternehmen und beeinflusst die Finanzierung und den Wettbewerb im Sektor.",
+      "eventDate": "2026-11-19",
+      "publishedAt": "2026-11-19T22:00:00+01:00",
+      "sources": [
+        {
+          "name": "Forbes",
+          "url": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-stock-closes-day-at-97-up-more-than-17/"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
+        }
+      ],
+      "hasX": true,
+      "status": null
+    },
+    {
+      "id": "2026-11-20-nvidia-china-stop",
+      "category": "KI & Technologie",
+      "title": "Nvidia stoppt H200-Chip-Lieferungen nach China",
+      "summary": "Interim-CEO Colette Kress erklärte, Nvidia shippe keine lizenzierten Hopper-Datacenter-Produkte mehr nach China. Rund 600'000 H200-Chips warten in Hongkong auf Importgenehmigungen. Die Entscheidung folgt auf die Führungskrise.",
+      "whyImportant": "Die Einschränkung beeinflusst die chinesische KI-Entwicklung und Nvidias Umsatz. Relevant für die globale Chip-Lieferkette und geopolitische Tech-Konkurrenz.",
+      "eventDate": "2026-11-19",
+      "publishedAt": "2026-11-19T10:00:00+01:00",
+      "sources": [
+        {
+          "name": "AI Podium / The Verge",
+          "url": "https://ai-podium.com/ai-news-top-10-19-november-2026/"
+        },
+        {
+          "name": "SiliconReport",
+          "url": "https://www.siliconreport.com/ai"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-20-bundesbank-bericht",
+      "category": "Wirtschaft",
+      "title": "Bundesbank: Stärkeres Wachstum im Q4, höhere Inflation droht",
+      "summary": "Die Bundesbank erwartet im vierten Quartal 2026 stärkeres Wachstum in Deutschland, getrieben von Staatsausgaben und Welthandel. Gleichzeitig warnt sie vor steigender Inflation nach dem Jahreswechsel durch Energiepreise und Kostenweitergabe.",
+      "whyImportant": "Die Prognose beeinflusst EZB-Zinserwartungen und die europäische Konjunktur. Für die Schweiz relevant über Export und Franken.",
+      "eventDate": "2026-11-19",
+      "publishedAt": "2026-11-19T12:00:00+01:00",
+      "sources": [
+        {
+          "name": "Bundesbank",
+          "url": "https://publikationen.bundesbank.de/content/1015940"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/de/wirtschaft/bundesbank-konjunkturaussichten-rosiger-doch-hhere-inflation-droht-2026-11-19/"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-20-smi-weiter-rueck",
+      "category": "Wirtschaft",
+      "title": "SMI fällt weiter: Defensive Schwergewichte belasten",
+      "summary": "Der SMI schloss am 19. November 1,1 % tiefer bei 14'722 Punkten. Novartis, Roche und Nestlé gaben ab, Novartis wegen enttäuschender Umsatzprognose. Technologiewerte spielen im Index kaum eine Rolle.",
+      "whyImportant": "Die Entwicklung spiegelt globale Unsicherheiten und Inflationssorgen. Relevant für Schweizer Pensionskassen und Unternehmen. Keine Anlageempfehlung.",
+      "eventDate": "2026-11-19",
+      "publishedAt": "2026-11-19T19:00:00+01:00",
+      "sources": [
+        {
+          "name": "Finanznachrichten / Dow Jones",
+          "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70181702-aktien-schweiz-von-defensiven-schwergewichten-belastet-015.htm"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-20-ch-abstimmungen",
+      "category": "Schweiz",
+      "title": "Abstimmungen 29. November: AHV und Kriegsmaterialgesetz eng",
+      "summary": "Umfragen zeigen eine knappe Ablehnung der AHV-Mehrwertsteuererhöhung (ca. 51 % Nein) und eine Pattsituation beim Kriegsmaterialgesetz (ca. 49 % Ja). Die Feuerwerksinitiative hat gute Chancen, die Ehepaar-Besteuerung nicht.",
+      "whyImportant": "Die Vorlagen betreffen Sozialausgaben, Rüstungsexporte und Neutralität. Der Ausgang prägt die Schweizer Politik und Wirtschaft.",
+      "eventDate": "2026-11-18",
+      "publishedAt": "2026-11-19T00:00:00+01:00",
+      "sources": [
+        {
+          "name": "NZZ",
+          "url": "https://www.nzz.ch/schweiz/die-ahv-steuererhoehung-steht-auf-der-kippe-ld.10067486"
+        },
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/zweite-srg-umfrage-kriegsmaterialgesetz-pattsituation-mit-leichtem-ja-vorteil"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-20-ch-publica-cyber",
+      "category": "Schweiz",
+      "title": "Publica leitet Untersuchung nach Cyberangriff ein",
+      "summary": "Die Pensionskasse des Bundes Publica hat nach einem Cyberangriff eine externe Untersuchung eingeleitet. Der Vorfall betrifft die digitale Sicherheit öffentlicher Institutionen.",
+      "whyImportant": "Cyberangriffe auf Pensionskassen bedrohen sensible Daten von Tausenden Versicherten und unterstreichen die Notwendigkeit besserer Sicherheit.",
+      "eventDate": "2026-11-19",
+      "publishedAt": "2026-11-19T18:00:00+01:00",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/dialog/pensionskasse-des-bundes-publica-leitet-nach-cyberattacke-eine-externe-untersuchung-ein"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-20-probleme-ukraine",
+      "category": "Probleme",
+      "title": "Ukraine-Krieg: Anhaltende Angriffe und Friedensskeptik",
+      "summary": "Auf X wird intensiv über die russischen Angriffe auf Kiew, die Krimbrücke und die parallelen Grossmacht-Gespräche diskutiert. Viele Nutzer zweifeln an Friedensfortschritten.",
+      "whyImportant": "Die Diskussionsintensität spiegelt die globale Sorge um Eskalation und humanitäre Folgen.",
+      "eventDate": "2026-11-20",
+      "publishedAt": "2026-11-20T06:00:00+01:00",
+      "sources": [
+        {
+          "name": "X / öffentliche Beiträge",
+          "url": "https://x.com"
+        }
+      ],
+      "hasX": true,
+      "status": null
+    },
+    {
+      "id": "2026-11-20-probleme-kosten",
+      "category": "Probleme",
+      "title": "Lebenshaltungskosten und wirtschaftliche Unsicherheit",
+      "summary": "Beiträge auf X thematisieren hohe Preise, Schulden, Arbeitslosigkeit und die Schwierigkeit, Grundbedürfnisse zu decken – von Kenia bis zu westlichen Ländern.",
+      "whyImportant": "Die ökonomische Belastung bleibt ein zentrales gesellschaftliches Problem mit hoher Diskussionsintensität.",
+      "eventDate": "2026-11-20",
+      "publishedAt": "2026-11-20T06:00:00+01:00",
+      "sources": [
+        {
+          "name": "X / öffentliche Beiträge",
+          "url": "https://x.com"
+        }
+      ],
+      "hasX": true,
+      "status": null
+    },
+    {
+      "id": "2026-11-20-probleme-ai-sicherheit",
+      "category": "Probleme",
+      "title": "KI-Risiken und Sicherheitsbedenken",
+      "summary": "Diskussionen über KI-gestützte Hacks, Datenmissbrauch und die Geschwindigkeit des technologischen Wandels, der Gesellschaften überfordert.",
+      "whyImportant": "Die schnelle KI-Entwicklung wirft Fragen zu Sicherheit, Arbeitsplätzen und gesellschaftlicher Anpassung auf.",
+      "eventDate": "2026-11-20",
+      "publishedAt": "2026-11-20T06:00:00+01:00",
+      "sources": [
+        {
+          "name": "X / öffentliche Beiträge",
+          "url": "https://x.com"
+        }
+      ],
+      "hasX": true,
+      "status": null
+    },
+    {
+      "id": "2026-11-20-probleme-politik-kenya",
+      "category": "Probleme",
+      "title": "Politische Führung und ökonomische Krise in Kenia",
+      "summary": "Hohe Diskussionsintensität zu Schulden, Besteuerung und der Vorbereitung der Opposition auf die Regierungsübernahme in Kenia.",
+      "whyImportant": "Zeigt globale Herausforderungen in Governance und wirtschaftlicher Erholung in Entwicklungsländern.",
+      "eventDate": "2026-11-20",
+      "publishedAt": "2026-11-20T06:00:00+01:00",
+      "sources": [
+        {
+          "name": "X / öffentliche Beiträge",
+          "url": "https://x.com"
+        }
+      ],
+      "hasX": true,
+      "status": null
+    },
+    {
+      "id": "2026-11-20-probleme-geopolitik",
+      "category": "Probleme",
+      "title": "Geopolitische Spannungen und Grossmachtpolitik",
+      "summary": "Das Trilateral-Treffen und parallele Konflikte dominieren Debatten über Vertrauensverlust in internationale Institutionen und Eskalationsrisiken.",
+      "whyImportant": "Die Intensität unterstreicht die Unsicherheit über die künftige Weltordnung.",
+      "eventDate": "2026-11-20",
+      "publishedAt": "2026-11-20T06:00:00+01:00",
+      "sources": [
+        {
+          "name": "X / öffentliche Beiträge",
+          "url": "https://x.com"
+        }
+      ],
+      "hasX": true,
+      "status": null
+    },
+    {
+      "id": "2026-11-19-trump-xi-putin-summit",
+      "category": "Allgemein",
+      "title": "Trump, Xi und Putin vereinbaren «Friedensdeklaration» in Shenzhen",
+      "summary": "Die drei Führer haben nach ihrem historischen Treffen eine symbolische Friedensdeklaration verabschiedet. Sie bekräftigen, dass ein Nuklearkrieg nicht gewonnen werden kann und nie geführt werden darf, und planen mehr Erdölversorgung. Keine konkreten Fortschritte bei Ukraine oder Iran.",
+      "whyImportant": "Die Deklaration ist vor allem symbolisch und stärkt Putins Position. Analysten sehen wenig Substanz, aber geopolitische Signale für Europa und die Schweiz.",
+      "eventDate": "2026-11-19",
+      "publishedAt": "2026-11-19T05:00:00+01:00",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/china/trumps-historic-meeting-with-xi-putin-headlines-asia-trip-2026-11-18/"
+        },
+        {
+          "name": "Atlantic Council",
+          "url": "https://www.atlanticcouncil.org/content-series/fastthinking/what-the-trump-putin-xi-meeting-actually-achieved/"
+        }
+      ],
+      "hasX": true,
+      "status": "Update: Deklaration veröffentlicht, wenig Substanz"
+    },
+    {
+      "id": "2026-11-19-crimean-bridge-again",
+      "category": "Allgemein",
+      "title": "Krimbrücke erneut angegriffen – Verkehr unterbrochen",
+      "summary": "Die Ukraine hat die Krimbrücke zum dritten Mal in dieser Woche getroffen. Russische Stellen bestätigen Schäden und die vorübergehende Sperrung des Verkehrs. Der Angriff erfolgte parallel zum Treffen der Grossmächte in China.",
+      "whyImportant": "Die Brücke bleibt ein strategisches Ziel. Weitere Angriffe können die Versorgung der Krim erschweren und die Eskalationsdynamik im Ukraine-Krieg erhöhen.",
+      "eventDate": "2026-11-19",
+      "publishedAt": "2026-11-19T03:00:00+01:00",
+      "sources": [
+        {
+          "name": "Daily Summary / Reuters-nahe Quellen",
+          "url": "https://dailysummaryof.com/world/2026-11-19"
+        },
+        {
+          "name": "BBC/Guardian-Zusammenfassung",
+          "url": "https://www.globalsconflicts.com/this-week/"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-19-iran-kuwait-attacks",
+      "category": "Allgemein",
+      "title": "Iran greift US-Stützpunkte in Kuwait und Bahrain an",
+      "summary": "Nach US-Schlägen auf die iranische Insel Qeshm hat der Iran Luftangriffe auf den US-Stützpunkt Ali Al Salem in Kuwait und Ziele in Bahrain gemeldet. Saudi-Arabien und Bahrain haben Abfangversuche gemeldet. Die Lage im Golf bleibt angespannt.",
+      "whyImportant": "Die Eskalation im Iran-Konflikt droht die Ölversorgung und die regionale Stabilität weiter zu belasten. Die Schweiz als neutraler Staat ist indirekt betroffen über Energiepreise und Diplomatie.",
+      "eventDate": "2026-11-18",
+      "publishedAt": "2026-11-19T06:00:00+01:00",
+      "sources": [
+        {
+          "name": "Just Security / Reuters",
+          "url": "https://www.justsecurity.org/165038/early-edition-november-18-2026/"
+        },
+        {
+          "name": "DAWN",
+          "url": "https://www.dawn.com/newspaper/back-page/2026-11-19"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-19-icj-rohingya",
+      "category": "Allgemein",
+      "title": "ICJ verurteilt Myanmar des Genozids an Rohingya – historisches Urteil",
+      "summary": "Der Internationale Gerichtshof hat am 19. November entschieden, dass Myanmar Genozid an den Rohingya begangen hat. Es ist das erste Mal, dass der ICJ einen Staat für Genozid verantwortlich macht. Das Urteil basiert auf mindestens 10'000 Toten und weit verbreiteter sexueller Gewalt während der «Clearance Operations» 2017.",
+      "whyImportant": "Das Urteil stärkt das Völkerrecht und setzt einen Präzedenzfall. Es hat Implikationen für andere Fälle und die humanitäre Lage der über 1 Million Rohingya-Flüchtlinge in Bangladesch.",
+      "eventDate": "2026-11-19",
+      "publishedAt": "2026-11-19T15:00:00+01:00",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/top-un-court-finds-myanmar-committed-state-sponsored-genocide-against-muslim-2026-11-19/"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar"
+        }
+      ],
+      "hasX": false,
+      "status": "Update: Urteil bestätigt, 9:6-Mehrheit"
+    },
+    {
+      "id": "2026-11-19-venezuela-military-ties",
+      "category": "Allgemein",
+      "title": "USA und Venezuela stellen militärische Zusammenarbeit wieder her",
+      "summary": "US-Verteidigungsminister Pete Hegseth hat bei einem Besuch in Caracas ein Abkommen zur Wiederaufnahme militärischer Kooperation, Training und Informationsaustausch unterzeichnet. Dies folgt auf die Absetzung Maduros im Januar.",
+      "whyImportant": "Der Schritt markiert eine dramatische Kehrtwende in den US-Beziehungen zu Venezuela und beeinflusst die regionale Sicherheitspolitik in Lateinamerika.",
+      "eventDate": "2026-11-18",
+      "publishedAt": "2026-11-18T20:00:00+01:00",
+      "sources": [
+        {
+          "name": "AP / Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/india-international-breaking-news-today-november-19/liveblog/135970352.cms"
+        },
+        {
+          "name": "SCMP",
+          "url": "https://www.scmp.com/news/world"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-19-anthropic-ipo",
+      "category": "KI & Technologie",
+      "title": "Anthropic-IPO: Grösster Börsengang aller Zeiten mit 81 Milliarden Dollar",
+      "summary": "Anthropic hat seinen IPO zu 83 Dollar pro Aktie bepreist und 81,3 Milliarden Dollar eingesammelt. Die Bewertung liegt bei rund 1,5 Billionen Dollar. Der Handel an der Nasdaq unter dem Ticker ANT beginnt am 19. November. Zusätzlich gibt es eine private Platzierung von 26 Milliarden.",
+      "whyImportant": "Der IPO testet die Bewertungen im KI-Sektor und gibt Anlegern erstmals direkten Zugang zu einem führenden Frontier-Modell-Anbieter. Er setzt Massstäbe für OpenAI und andere.",
+      "eventDate": "2026-11-18",
+      "publishedAt": "2026-11-18T22:00:00+01:00",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/legal/transactional/anthropic-prices-blockbuster-ipo-83-share-source-says-2026-11-18/"
+        },
+        {
+          "name": "Anthropic",
+          "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+        }
+      ],
+      "hasX": true,
+      "status": null
+    },
+    {
+      "id": "2026-11-19-google-gemini-neon",
+      "category": "KI & Technologie",
+      "title": "Google bringt Gemini 4 Neon: günstiges Modell für Code und Wissen",
+      "summary": "Google hat Gemini 4 Neon vorgestellt, ein Modell für Programmieren und Wissensarbeit zum Preis von 3 Dollar pro Million Eingabe-Tokens. Parallel läuft die Gemini-App nun auf Android-Go-Geräten, und Google trennt Chat-Verlauf vom KI-Training.",
+      "whyImportant": "Niedrigere Preise und bessere Datenschutzoptionen machen fortgeschrittene KI für mehr Nutzer und Unternehmen zugänglich. Praktisch relevant für Entwickler und KMU.",
+      "eventDate": "2026-11-19",
+      "publishedAt": "2026-11-19T01:00:00+01:00",
+      "sources": [
+        {
+          "name": "UnderdoxAI / Google",
+          "url": "https://www.underdoxai.com/ki-news/"
+        },
+        {
+          "name": "t3n",
+          "url": "https://t3n.de/news/"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-18-openai-gpt62",
+      "category": "KI & Technologie",
+      "title": "OpenAI veröffentlicht GPT-6.2 Astra und Sol",
+      "summary": "OpenAI hat die Modelle GPT-6.2 Astra für anspruchsvolle Projekte und GPT-6.2 Sol für alltägliche Aufgaben vorgestellt. Sie sollen bessere Ergebnisse mit weniger Ausgabetokens liefern und sind in ChatGPT Work, Codex und der API verfügbar.",
+      "whyImportant": "Die Modelle verbessern Effizienz und Kosten für Entwickler und Unternehmen. Sie erscheinen kurz vor dem Anthropic-IPO und verschärfen den Wettbewerb.",
+      "eventDate": "2026-11-17",
+      "publishedAt": "2026-11-17T22:00:00+01:00",
+      "sources": [
+        {
+          "name": "Aionity / t3n",
+          "url": "https://aionity.app/ai-news"
+        },
+        {
+          "name": "t3n",
+          "url": "https://t3n.de/news/"
+        }
+      ],
+      "hasX": true,
+      "status": null
+    },
+    {
+      "id": "2026-11-18-microsoft-agents",
+      "category": "KI & Technologie",
+      "title": "Microsoft Ignite: Autonome KI-Agenten übernehmen ganze Arbeitsabläufe",
+      "summary": "Auf der Ignite 2026 stellt Microsoft Agentic AI in den Mittelpunkt. Agenten recherchieren, schreiben Berichte oder Code und prüfen Compliance. Neue Governance-Tools wie Agent 365 und ein Sovereign Control Panel adressieren Kontrolle und Datenschutz.",
+      "whyImportant": "Praktisch nutzbare Agenten können Büroprozesse automatisieren. Gleichzeitig wachsen die Anforderungen an Überwachung und Datensouveränität – relevant für Schweizer Unternehmen.",
+      "eventDate": "2026-11-17",
+      "publishedAt": "2026-11-17T16:00:00+01:00",
+      "sources": [
+        {
+          "name": "Heute.at",
+          "url": "https://www.heute.at/s/neue-ki-agenten-uebernehmen-jetzt-ganze-arbeitsablaeufe-120283114"
+        },
+        {
+          "name": "Microsoft Ignite"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-18-nvidia-huang-out",
+      "category": "KI & Technologie",
+      "title": "Nvidia-Vorstand schliesst Jensen Huang als CEO aus",
+      "summary": "Nach Huangs Rücktritt wegen persönlicher Affären (inkl. möglicher chinesischer Verbindungen) hat der Vorstand einstimmig abgelehnt, ihn wieder einzusetzen. Interim-CEO Colette Kress hat die Mitarbeiter beruhigt und Gehaltserhöhungen angekündigt. Die Aktie hatte zuvor stark verloren.",
+      "whyImportant": "Die Führungskrise beim wichtigsten KI-Chip-Hersteller kann die Lieferkette und Investitionen im Sektor beeinflussen. Trump und Musk kommentieren den Fall.",
+      "eventDate": "2026-11-18",
+      "publishedAt": "2026-11-18T06:00:00+01:00",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/business-usual-nvidias-kress-passes-first-test-board-slams-door-huang-2026-11-18/"
+        },
+        {
+          "name": "Bloomberg / WIRED",
+          "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/"
+        }
+      ],
+      "hasX": true,
+      "status": null
+    },
+    {
+      "id": "2026-11-17-zew-konjunktur",
+      "category": "Wirtschaft",
+      "title": "ZEW-Konjunkturbarometer steigt auf höchsten Stand seit Iran-Krieg",
+      "summary": "Das ZEW-Barometer der Konjunkturerwartungen stieg im November um 7,5 Punkte auf 35,6 – den höchsten Wert seit Februar. Auch die Lageeinschätzung verbesserte sich. Die Erholung wird bislang vor allem von staatlichen Ausgaben getragen, die Sorge um die Tragfähigkeit der Staatsschulden wächst.",
+      "whyImportant": "Ein positives Signal für die deutsche und europäische Konjunktur. Für die Schweiz relevant über Export und Zinsentwicklung der EZB.",
+      "eventDate": "2026-11-17",
+      "publishedAt": "2026-11-17T11:00:00+01:00",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/de/wirtschaft/zew-konjunkturbarometer-steigt-berraschend-deutlich-erholung-bleibt-verhalten-2026-11-17/"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-17/deutsche-konjunkturerwartungen-erreichen-hochststand-seit-beginn-des-iran-kriegs"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-19-anthropic-ipo-economy",
+      "category": "Wirtschaft",
+      "title": "Anthropic-Börsengang als Test für KI-Bewertungen",
+      "summary": "Mit dem grössten IPO der Geschichte (81 Mrd. Dollar, 1,5 Billionen Bewertung) testet Anthropic die Risikobereitschaft der öffentlichen Märkte für KI-Unternehmen. Amazon, Google und andere haben grosse Stakes. Der Handel startet am 19. November.",
+      "whyImportant": "Der Erfolg oder Misserfolg beeinflusst die Finanzierung weiterer KI-Projekte und die Bewertung verwandter Aktien (Nvidia, Microsoft etc.). Keine Anlageempfehlung.",
+      "eventDate": "2026-11-18",
+      "publishedAt": "2026-11-18T22:00:00+01:00",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/legal/transactional/anthropic-prices-blockbuster-ipo-83-share-source-says-2026-11-18/"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+        }
+      ],
+      "hasX": true,
+      "status": null
+    },
+    {
+      "id": "2026-11-18-fed-zinsen",
+      "category": "Wirtschaft",
+      "title": "Fed-Erwartungen: Kleiner Zinsschritt im Dezember wahrscheinlich",
+      "summary": "Nach Aussagen von Fed-Vertretern (u. a. Williams) preisen die Märkte einen grossen Zinsschritt im Dezember nur noch mit 3 % ein, einen kleinen mit 97 %. Die jüngste Senkung um 25 Basispunkte steht im Fokus. Inflation bleibt über Ziel.",
+      "whyImportant": "Zinsentscheidungen der Fed beeinflussen globale Kapitalflüsse, den Dollar und damit auch Schweizer Exporteure und den Franken.",
+      "eventDate": "2026-11-18",
+      "publishedAt": "2026-11-18T08:00:00+01:00",
+      "sources": [
+        {
+          "name": "MarketScreener / Dow Jones",
+          "url": "https://de.marketscreener.com/boerse-nachrichten/abwartend-nvidia-zahlen-im-fokus-entspannung-bei-zinsen-ce785edcd180f421"
+        },
+        {
+          "name": "Börsen-Zeitung",
+          "url": "https://www.boersen-zeitung.de/konjunktur-politik"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-18-smi-rueckgang",
+      "category": "Wirtschaft",
+      "title": "SMI gibt nach: Schwergewichte belasten Schweizer Aktienmarkt",
+      "summary": "Der SMI schloss am 18. November 0,6 % tiefer bei 14'886 Punkten. Roche, Novartis, UBS und Versicherer belasteten. Der Index hatte zuvor ein Allzeithoch bei 15'272 Punkten erreicht.",
+      "whyImportant": "Die Entwicklung spiegelt globale Unsicherheiten (KI-Sektor, Zinsen, Geopolitik) und ist relevant für Schweizer Anleger und Unternehmen. Keine Anlageempfehlung.",
+      "eventDate": "2026-11-18",
+      "publishedAt": "2026-11-18T18:15:00+01:00",
+      "sources": [
+        {
+          "name": "Finanz und Wirtschaft",
+          "url": "https://www.fuw.ch/boerse/newsticker/202611183246/aktien-schweiz-schluss-schwergewichte-belasten-smi"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-18-eu-indonesia-trade",
+      "category": "Wirtschaft",
+      "title": "EU genehmigt Handelsabkommen mit Indonesien gegen Trump-Zölle",
+      "summary": "Die EU-Regierungen haben ein Handelsabkommen mit Indonesien gebilligt, das vorläufig angewendet werden kann. Es senkt Zölle auf über 90 % der Produkte und soll die Auswirkungen US-amerikanischer Zölle abfedern. Indonesiens Autozoll fällt schrittweise.",
+      "whyImportant": "Diversifizierung der Handelsbeziehungen stärkt die europäische Wirtschaft. Für die Schweiz als EFTA-Partner und Exportnation relevant.",
+      "eventDate": "2026-11-18",
+      "publishedAt": "2026-11-19T00:00:00+01:00",
+      "sources": [
+        {
+          "name": "Daily Summary",
+          "url": "https://dailysummaryof.com/world/2026-11-19"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-19-ch-rechenzentren-strom",
+      "category": "Schweiz",
+      "title": "KI-Boom treibt Strombedarf: Rechenzentren könnten bis 15 % des Schweizer Stroms verbrauchen",
+      "summary": "Studien und Berichte warnen, dass Rechenzentren bis 2030 bis zu 15 % des Schweizer Stromverbrauchs ausmachen könnten. Projekte wie Stack Infrastructure in Beringen SH oder Infomaniak/Gruyère Energie in Bulle (mit Wärmerückgewinnung) stehen in der Diskussion. Aktivisten und Politik fordern bessere Umweltprüfungen.",
+      "whyImportant": "Der Energiebedarf der KI-Infrastruktur kollidiert mit den Schweizer Klimazielen und der Winterstromversorgung. Unternehmen und Kantone müssen jetzt Weichen stellen.",
+      "eventDate": "2026-11-18",
+      "publishedAt": "2026-11-18T17:00:00+01:00",
+      "sources": [
+        {
+          "name": "Weltwoche / Infosperber / BFE",
+          "url": "https://weltwoche.ch/daily/ki-boom-sorgt-fuer-streit-um-strom-und-trinkwasser-rechenzentren-koennten-bis-2030-bis-zu-15-prozent-des-schweizer-stroms-verbrauchen/"
+        },
+        {
+          "name": "Tages-Anzeiger",
+          "url": "https://www.tagesanzeiger.ch/schweiz"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-19-ch-katar-besuch",
+      "category": "Schweiz",
+      "title": "Bundespräsident Parmelin empfängt Emir von Katar mit militärischen Ehren",
+      "summary": "Der Emir von Katar ist zum Staatsbesuch in Bern. Ein Galadiner mit prominenter Gästeliste (inkl. Gianni Infantino) sorgt für Aufsehen. Die Länder wollen in der Friedensvermittlung enger kooperieren.",
+      "whyImportant": "Die Schweiz pflegt enge Beziehungen zu Golfstaaten. Der Besuch unterstreicht die Rolle als Vermittlerin, wirft aber auch Fragen zur Partnerschaft auf.",
+      "eventDate": "2026-11-18",
+      "publishedAt": "2026-11-18T17:55:00+01:00",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/staatsbesuch-aus-golfstaat-die-schweiz-und-katar-eine-partnerschaft-die-fragen-aufwirft"
+        },
+        {
+          "name": "Tages-Anzeiger",
+          "url": "https://www.tagesanzeiger.ch/schweiz"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-19-ch-svp-bundesrat",
+      "category": "Schweiz",
+      "title": "SVP sucht Nachfolge für Parmelin: Fraktionsvorstand empfiehlt Zweierticket",
+      "summary": "Die SVP bereitet die Bundesratswahl am 9. Dezember vor. Der Fraktionsvorstand empfiehlt ein Zweierticket. Alle Kandidierenden der Findungskommission sind wählbar. Die Diskussion läuft weiter.",
+      "whyImportant": "Die Zusammensetzung des Bundesrats beeinflusst die Schweizer Politik in den kommenden Jahren, besonders in Aussen-, Wirtschafts- und Energiefragen.",
+      "eventDate": "2026-11-18",
+      "publishedAt": "2026-11-18T17:00:00+01:00",
+      "sources": [
+        {
+          "name": "Tages-Anzeiger",
+          "url": "https://www.tagesanzeiger.ch/schweiz"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-18-ch-tabak-abgabe",
+      "category": "Schweiz",
+      "title": "Bundesrat will Präventionsabgabe auf E-Zigaretten und Snus",
+      "summary": "Der Bundesrat plant eine Abgabe auf Alternativen zu klassischen Zigaretten, um die Tabakprävention zu stärken. Zigaretten werden zunehmend durch E-Zigaretten und Snus ersetzt.",
+      "whyImportant": "Die Massnahme betrifft die Gesundheitsprävention und die Einnahmen des Bundes. Relevant für die Tabak- und Vape-Branche.",
+      "eventDate": "2026-11-18",
+      "publishedAt": "2026-11-18T18:04:00+01:00",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/tabakpraevention-bundesrat-will-praeventionsabgabe-auf-e-zigaretten-und-snus"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-18-ch-eu-bilaterale",
+      "category": "Schweiz",
+      "title": "Charmeoffensive aus Brüssel für bilaterale Verträge mit der EU",
+      "summary": "Während im Bundeshaus über die Bilateralen diskutiert wird, wirbt Brüssel für die Partnerschaft. Die Schweiz und die EU seien logische Partner. Die Verhandlungen und die innenpolitische Debatte laufen parallel.",
+      "whyImportant": "Die Bilateralen sind zentral für den Schweizer Marktzugang und die Wirtschaft. Der Ausgang prägt die Beziehungen zu Europa langfristig.",
+      "eventDate": "2026-11-18",
+      "publishedAt": "2026-11-18T19:16:00+01:00",
+      "sources": [
+        {
+          "name": "SRF",
+          "url": "https://www.srf.ch/news/schweiz/bilaterale-vertraege-mit-der-eu-eine-positive-story-charmeoffensive-aus-bruessel"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-19-probleme-kriege",
+      "category": "Probleme",
+      "title": "Eskalierende Kriege in Ukraine und Nahost dominieren Diskussionen",
+      "summary": "Auf X werden die erneuten Angriffe auf die Krimbrücke, iranische Schäge auf Golfstaaten und die parallelen Grossmacht-Gespräche intensiv diskutiert. Viele Beiträge thematisieren das Risiko einer weiteren Eskalation und die humanitären Folgen.",
+      "whyImportant": "Die Konflikte beeinflussen Energiepreise, Flüchtlingsbewegungen und die globale Sicherheit. Sie sind auf X das am stärksten diskutierte geopolitische Thema.",
+      "eventDate": "2026-11-19",
+      "publishedAt": "2026-11-19T06:00:00+01:00",
+      "sources": [
+        {
+          "name": "X-Trends und Beiträge",
+          "url": "https://x.com"
+        },
+        {
+          "name": "Reuters / DAWN",
+          "url": "https://www.reuters.com/world/"
+        }
+      ],
+      "hasX": true,
+      "status": null
+    },
+    {
+      "id": "2026-11-19-probleme-ki-jobs",
+      "category": "Probleme",
+      "title": "Angst vor KI-bedingter Arbeitsplatzverdrängung",
+      "summary": "In deutschsprachigen X-Beiträgen wird diskutiert, dass KI in den kommenden Jahren grosse Teile der Büro- und Verwaltungsjobs ersetzen könnte. Beispiele: Beamte und Dienstleistungsjobs werden als besonders gefährdet gesehen.",
+      "whyImportant": "Die Diskussion spiegelt reale Unsicherheit auf dem Arbeitsmarkt wider. Für Unternehmen und Politik in der Schweiz relevant für Weiterbildung und Regulierung.",
+      "eventDate": "2026-11-18",
+      "publishedAt": "2026-11-19T06:00:00+01:00",
+      "sources": [
+        {
+          "name": "X-Beitrag (Beispiel)",
+          "url": "https://x.com"
+        }
+      ],
+      "hasX": true,
+      "status": null
+    },
+    {
+      "id": "2026-11-19-probleme-summit-geopolitik",
+      "category": "Probleme",
+      "title": "Sorge um Grossmacht-Deals ohne Europa",
+      "summary": "Das Trump-Xi-Putin-Treffen in Shenzhen wird auf X intensiv diskutiert. Viele befürchten, dass Europa und die Ukraine bei möglichen Vereinbarungen zu Ukraine, Iran und Nuklearwaffen übergangen werden.",
+      "whyImportant": "Die Wahrnehmung, dass kleinere Staaten und Europa an den Rand gedrängt werden, verstärkt das Gefühl geopolitischer Unsicherheit.",
+      "eventDate": "2026-11-19",
+      "publishedAt": "2026-11-19T05:00:00+01:00",
+      "sources": [
+        {
+          "name": "X-Trends Schweiz (Shenzhen, Xi, Putin)",
+          "url": "https://endless.app/radar/trends/switzerland"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/"
+        }
+      ],
+      "hasX": true,
+      "status": null
+    },
+    {
+      "id": "2026-11-19-probleme-energie-ki",
+      "category": "Probleme",
+      "title": "Energie- und Wasserverbrauch von KI-Rechenzentren",
+      "summary": "In der Schweiz und international wird der steigende Strom- und Wasserbedarf von Rechenzentren für KI diskutiert. Projekte in der Schweiz (Beringen, Bulle) und globale Prognosen sorgen für Debatten über Nachhaltigkeit und Versorgungssicherheit.",
+      "whyImportant": "Das Thema verbindet Technologie, Klima und lokale Infrastruktur. Es ist in der Schweiz besonders relevant wegen der Stromknappheit im Winter.",
+      "eventDate": "2026-11-18",
+      "publishedAt": "2026-11-19T06:00:00+01:00",
+      "sources": [
+        {
+          "name": "Weltwoche / SRF / BFE",
+          "url": "https://weltwoche.ch/daily/ki-boom-sorgt-fuer-streit-um-strom-und-trinkwasser-rechenzentren-koennten-bis-2030-bis-zu-15-prozent-des-schweizer-stroms-verbrauchen/"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-19-probleme-humanitaer-genozid",
+      "category": "Probleme",
+      "title": "Humanitäre Krisen und Genozid-Verfahren im Fokus",
+      "summary": "Das bevorstehende ICJ-Urteil zu den Rohingya und die anhaltenden Kämpfe in Gaza werden auf X diskutiert. Viele Beiträge thematisieren die Lage von Flüchtlingen und die Durchsetzung internationalen Rechts.",
+      "whyImportant": "Die Fälle prägen die Debatte über Völkerrecht und die Verantwortung der Staatengemeinschaft. Relevant auch für die Schweizer Aussenpolitik.",
+      "eventDate": "2026-11-19",
+      "publishedAt": "2026-11-19T06:00:00+01:00",
+      "sources": [
+        {
+          "name": "Reuters / BBC",
+          "url": "https://www.reuters.com/world/asia-pacific/top-un-court-rule-alleged-genocide-myanmars-rohingya-2026-11-18/"
+        },
+        {
+          "name": "X-Diskussionen",
+          "url": "https://x.com"
+        }
+      ],
+      "hasX": true,
+      "status": null
+    },
+    {
+      "id": "2026-11-17-kerch-bridge",
+      "category": "Allgemein",
+      "title": "Ukraine beschädigt Krimbrücke massiv – Strassenbogen eingestürzt",
+      "summary": "Ukrainische Drohnen und Raketen haben in der Nacht auf den 17. November die Strassenverbindung der Krimbrücke (Kertsch-Brücke) schwer beschädigt. Ein Bogen und ein Spann der Strassensektion sind ins Wasser gestürzt. Der Eisenbahnteil steht noch, ist aber ebenfalls beschädigt. Verkehr ist unterbrochen.",
+      "whyImportant": "Die Brücke ist eine zentrale Versorgungsroute für russische Truppen auf der Krim und ein Prestigeprojekt Putins. Der Angriff zeigt die wachsende Reichweite ukrainischer Fernwaffen.",
+      "eventDate": "2026-11-17",
+      "publishedAt": "2026-11-17T10:50:00+01:00",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/europe/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-2026-11-17/"
+        },
+        {
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/11/17/europe/ukraine-russia-kerch-bridge-intl-hnk"
+        }
+      ],
+      "hasX": false,
+      "status": null
+    },
+    {
+      "id": "2026-11-17-microsoft-mai",
+      "category": "KI & Technologie",
+      "title": "Microsoft stellt günstigere eigene KI-Modelle vor: MAI Code 2 und Cyber",
+      "summary": "Auf der Ignite-Konferenz hat Microsoft mehrere eigene Modelle präsentiert, darunter MAI Code 2 für Programmierung und ein Cyber-Modell. Laut Microsoft erreicht Code 2 98 % der Leistung von GPT-6.1 Sol zu 40 % der Kosten und 96 % von Claude Opus 5.5 zu nur 5 % der Kosten. Die Modelle sind in GitHub Copilot verfügbar.",
+      "whyImportant": "Microsoft reduziert die Abhängigkeit von OpenAI und Anthropic und drückt die Kosten für unternehmensfähige KI. Das kann die Preise im Markt senken und die Auswahl für Unternehmen erweitern.",
+      "eventDate": "2026-11-17",
+      "publishedAt": "2026-11-17T19:16:00+01:00",
+      "sources": [
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite"
+        },
+        {
+          "name": "Microsoft Blog",
+          "url": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/"
+        }
+      ],
+      "hasX": true,
+      "status": null
     }
   ]
 }
