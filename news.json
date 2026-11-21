@@ -1,1 +1,27 @@
-PLACEHOLDER
+{
+  "lastUpdated": "2026-11-21T06:22:00+01:00",
+  "updateFrequency": "täglich um 20:00 Uhr MEZ/MESZ; Probleme-Reiter mit Top-5 von X",
+  "items": [
+    {
+      "id": "2026-11-21-poland-missile",
+      "category": "Allgemein",
+      "title": "Russische Raketen und Drohne verletzen polnischen Luftraum",
+      "summary": "Zwei russische Marschflugkörper und eine Drohne sind am 20. November in Ostpolen niedergegangen. Polens Premier Tusk spricht von einer absichtlichen Provokation während Übungen der Koalition der Willigen. Niemand wurde verletzt.",
+      "whyImportant": "Der Vorfall erhöht die NATO-Spannungen und zeigt Risiken der Eskalation im Ukraine-Krieg. Für die Schweiz relevant als neutraler Beobachter und über Energie- und Sicherheitsfragen.",
+      "eventDate": "2026-11-20",
+      "publishedAt": "2026-11-20T12:00:00+01:00",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/polish-army-investigates-report-unknown-objects-near-ukraine-border-2026-11-20/"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro"
+        }
+      ],
+      "hasX": true,
+      "status": null
+    }
+  ]
+}
